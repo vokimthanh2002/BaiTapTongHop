@@ -1,0 +1,17 @@
+\\Mac\Home\Documents\222_ki2Nam3\LapTrinhCSharp\TH\codefirst4\codefirst4\obj\Debug\codefirst4.csprojAssemblyReference.cache
+\\Mac\Home\Documents\222_ki2Nam3\LapTrinhCSharp\TH\codefirst4\codefirst4\obj\Debug\codefirst4.Form1.resources
+\\Mac\Home\Documents\222_ki2Nam3\LapTrinhCSharp\TH\codefirst4\codefirst4\obj\Debug\codefirst4.Properties.Resources.resources
+\\Mac\Home\Documents\222_ki2Nam3\LapTrinhCSharp\TH\codefirst4\codefirst4\obj\Debug\codefirst4.csproj.GenerateResource.cache
+\\Mac\Home\Documents\222_ki2Nam3\LapTrinhCSharp\TH\codefirst4\codefirst4\obj\Debug\codefirst4.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\222_ki2Nam3\LapTrinhCSharp\TH\codefirst4\codefirst4\bin\Debug\Data\entity\student.cs
+\\Mac\Home\Documents\222_ki2Nam3\LapTrinhCSharp\TH\codefirst4\codefirst4\bin\Debug\codefirst4.exe.config
+\\Mac\Home\Documents\222_ki2Nam3\LapTrinhCSharp\TH\codefirst4\codefirst4\bin\Debug\codefirst4.exe
+\\Mac\Home\Documents\222_ki2Nam3\LapTrinhCSharp\TH\codefirst4\codefirst4\bin\Debug\codefirst4.pdb
+\\Mac\Home\Documents\222_ki2Nam3\LapTrinhCSharp\TH\codefirst4\codefirst4\bin\Debug\EntityFramework.dll
+\\Mac\Home\Documents\222_ki2Nam3\LapTrinhCSharp\TH\codefirst4\codefirst4\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\222_ki2Nam3\LapTrinhCSharp\TH\codefirst4\codefirst4\bin\Debug\EntityFramework.xml
+\\Mac\Home\Documents\222_ki2Nam3\LapTrinhCSharp\TH\codefirst4\codefirst4\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\222_ki2Nam3\LapTrinhCSharp\TH\codefirst4\codefirst4\obj\Debug\codefirst4.csproj.CopyComplete
+\\Mac\Home\Documents\222_ki2Nam3\LapTrinhCSharp\TH\codefirst4\codefirst4\obj\Debug\codefirst4.exe
+\\Mac\Home\Documents\222_ki2Nam3\LapTrinhCSharp\TH\codefirst4\codefirst4\obj\Debug\codefirst4.pdb
+\\Mac\Home\Documents\222_ki2Nam3\LapTrinhCSharp\TH\codefirst4\codefirst4\obj\Debug\codefirst4.Migrations.Migrations.resources
